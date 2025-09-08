@@ -41,10 +41,10 @@ Protótipo da tela de cadastro de professores, com campos específicos para dado
 ![Cadastro de Fornecedores](images/Fornecedor.jpg)
 Protótipo da tela de cadastro de pessoa jurídica, voltada para fornecedores.
 
-### Tela de *Login*
+### Tela de Login
 
 ![Tela de Login](images/Login.jpg)
-Protótipo da tela de *login* do sistema.
+Protótipo da tela de login do sistema.
 
 ### Consultar Dados
 
@@ -64,7 +64,7 @@ Protótipo da tela de dados cadastrais do usuário.
 ### Recuperar Senha
 
 ![Recuperação de Senha](images/Recuperar_Senha.jpg)
-Protótipo da tela de recuperação de senha, solicitando email de recuperação.
+Protótipo da tela de recuperação de senha, solicitando e-mail de recuperação.
 
 ### Link de Recuperação
 
@@ -79,7 +79,7 @@ Protótipo da tela de confirmação do envio do link de recuperação de senha.
 
 ## Introdução
 
-A **UML (Unified Modeling Language)** é uma linguagem de modelagem visual padrão, amplamente usada na área de engenharia de software para especificar, visualizar, construir e documentar sistemas de softwares.
+A **UML (*Unified Modeling Language*)** é uma linguagem de modelagem visual padrão, amplamente usada na área de engenharia de software para especificar, visualizar, construir e documentar sistemas de softwares.
 
 Este projeto apresenta uma situação fictícia de uma universidade onde há necessidade de um sistema de cadastro, formulando-se assim um caso de uso para representar a mesma, os atores, sistema e metas.
 
