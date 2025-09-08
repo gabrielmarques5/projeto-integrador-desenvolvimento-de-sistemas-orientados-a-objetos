@@ -239,7 +239,7 @@ O diagrama de classes apresenta a estrutura estática do sistema:
 
 ## Conclusão
 
-Utilizamos a modelagem orientada a objetos usando a linguagem UML (Unified Modeling Language) para representar um sistema de gestão de dados de uma universidade. Através dos diagramas e cenários desenvolvidos, é possível notar a importância da modelagem visual na compreensão e planejamento de sistemas de software.
+Utilizamos a modelagem orientada a objetos usando a linguagem UML (*Unified Modeling Language*) para representar um sistema de gestão de dados de uma universidade. Através dos diagramas e cenários desenvolvidos, é possível notar a importância da modelagem visual na compreensão e planejamento de sistemas de software.
 
 Realizamos o cadastro de diferentes tipos de pessoas que interagem com o sistema, como alunos, professores e fornecedores, diferenciando-os entre pessoas físicas e jurídicas. Elaboramos cenários completos de casos de uso, incluindo o cenário principal e os cenários alternativos, descrevendo pré-condições e pós-condições, abordando de forma clara o comportamento esperado do sistema criado em diferentes situações, como no cadastro, login, alteração de senha, consulta de dados cadastrais etc.
 
