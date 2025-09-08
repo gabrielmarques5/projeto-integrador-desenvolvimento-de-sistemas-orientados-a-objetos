@@ -2,7 +2,7 @@
 
 ## Integrantes do Grupo
 
-- Adriano Basílio Júnior
+- Adriano Basilio Júnior
 - Ana Letícia Carvalho Couras
 - Andréia Goveia da Costa
 - Erick Felipe dos Santos de Melo
