@@ -237,7 +237,7 @@ O diagrama de classes apresenta a estrutura estática do sistema:
 
 ---
 
-## Conclusao
+## Conclusão
 
 Utilizamos a modelagem orientada a objetos usando a linguagem UML (Unified Modeling Language) para representar um sistema de gestão de dados de uma universidade. Através dos diagramas e cenários desenvolvidos, é possível notar a importância da modelagem visual na compreensão e planejamento de sistemas de software.
 
@@ -247,7 +247,7 @@ Dessa forma, cumprimos todos os requisitos propostos pelo Projeto Integrador e v
 
 ---
 
-## Referencias
+## Referências
 
 1. OLIVEIRA, Henrique Pontes Gonçalves de. _Análise de sistemas_. São Paulo: Senac São Paulo, 2019.
 2. PESSÔA FILHO, Joaquim. _Programação orientada a objetos com C#_. São Paulo: Senac São Paulo, 2023.
