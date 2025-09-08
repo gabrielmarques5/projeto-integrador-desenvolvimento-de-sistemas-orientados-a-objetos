@@ -41,7 +41,7 @@ Protótipo da tela de cadastro de professores, com campos específicos para dado
 ![Cadastro de Fornecedores](images/Fornecedor.jpg)
 Protótipo da tela de cadastro de pessoa jurídica, voltada para fornecedores.
 
-### Tela de Login
+### Tela de *Login*
 
 ![Tela de Login](images/Login.jpg)
 Protótipo da tela de *login* do sistema.
