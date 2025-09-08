@@ -79,7 +79,7 @@ Protótipo da tela de confirmação do envio do link de recuperação de senha.
 
 ## Introdução
 
-A **UML (*Unified Modeling Language*)** é uma linguagem de modelagem visual padrão, amplamente usada na área de engenharia de software para especificar, visualizar, construir e documentar sistemas de softwares.
+A **UML (*Unified Modeling Language*)** é uma linguagem de modelagem visual padrão, amplamente usada na área de engenharia de software para especificar, visualizar, construir e documentar sistemas de *softwares*.
 
 Este projeto apresenta uma situação fictícia de uma universidade onde há necessidade de um sistema de cadastro, formulando-se assim um caso de uso para representar a mesma, os atores, sistema e metas.
 
@@ -201,9 +201,9 @@ O diagrama abaixo representa todos os casos de uso do sistema de gestão univers
 | **Ator**                  | Sistema                                                                                     |
 | **Pré-Condição**          | Nome de usuário e senha já digitados na janela de login                                     |
 | **Cenário Principal**     | Classe recebe informações de login, verifica no banco de dados, criptografa senha e compara |
-| **Cenário Alternativo 1** | Nome de usuário não localizado: função retorna "false"                                      |
-| **Cenário Alternativo 2** | Senha difere da registrada: função retorna "false"                                          |
-| **Pós-Condição**          | A função de validação retorna "true"                                                        |
+| **Cenário Alternativo 1** | Nome de usuário não localizado: função retorna "*false*"                                      |
+| **Cenário Alternativo 2** | Senha difere da registrada: função retorna "*false*"                                          |
+| **Pós-Condição**          | A função de validação retorna "*true*"                                                        |
 
 ### C011 - Consultar Dados Cadastrais
 
