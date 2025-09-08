@@ -44,7 +44,7 @@ Protótipo da tela de cadastro de pessoa jurídica, voltada para fornecedores.
 ### Tela de Login
 
 ![Tela de Login](images/Login.jpg)
-Protótipo da tela de login do sistema.
+Protótipo da tela de *login* do sistema.
 
 ### Consultar Dados
 
